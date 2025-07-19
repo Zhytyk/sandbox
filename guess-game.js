@@ -10,6 +10,7 @@ const rl = readline.createInterface({
 let variable = 'variable';//123122312
 
 const guessMessageInfo = 'Please, guess the number: ';
+123123
 const fromZeroToTenRandomNumber = Math.random() * 10;
 const roundedRandomNumber = Math.round(fromZeroToTenRandomNumber);
 let hasGuessed = false;
