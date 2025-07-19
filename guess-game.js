@@ -22,7 +22,6 @@ function askQuestion(query) {
 }
 
 
-
 async function guessNumber() {
     while (!hasGuessed) {
         const enteredNumber = await askQuestion(guessMessageInfo);
