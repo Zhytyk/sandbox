@@ -5,7 +5,7 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-//fdgdsf
+//fdgdsf12312312
 
 let variable = 'variable';//123122312
 
