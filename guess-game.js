@@ -7,7 +7,7 @@ const rl = readline.createInterface({
 
 //fdgdsf
 
-let variable = 'variable';
+let variable = 'variable';//12312
 
 const guessMessageInfo = 'Please, guess the number: ';
 const fromZeroToTenRandomNumber = Math.random() * 10;
