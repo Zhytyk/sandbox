@@ -7,6 +7,8 @@ const rl = readline.createInterface({
 
 //fdgdsf12312312
 
+
+
 let variable = 'variable';//123122312
 
 const guessMessageInfo = 'Please, guess the number: ';
