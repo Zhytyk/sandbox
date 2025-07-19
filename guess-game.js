@@ -5,6 +5,8 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
+//fdgdsf
+
 const guessMessageInfo = 'Please, guess the number: ';
 const fromZeroToTenRandomNumber = Math.random() * 10;
 const roundedRandomNumber = Math.round(fromZeroToTenRandomNumber);
